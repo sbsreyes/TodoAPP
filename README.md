@@ -8,12 +8,13 @@ de BOOTSTRAP, para facilitar un poco el desarrollo frontend
 
 # Vista principal de la aplicación:
 
-![Principal](Diseño de la app.png)
+![Principal](https://github.com/sbsreyes/TodoAPP/blob/master/Img/Dise%C3%B1o%20de%20la%20app.PNG)
+
 
 
 
 # Agregando una nueva tarea:
 
-![image-20200808223102036](Img/Agregando una tarea.png)
+![Adjuntando una nueva tarea](https://github.com/sbsreyes/TodoAPP/blob/master/Img/Agregando%20una%20tarea.PNG)
 
 Ya con esto damos por terminada el ejercicio de práctica de VueJS
