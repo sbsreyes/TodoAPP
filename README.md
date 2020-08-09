@@ -8,7 +8,7 @@ de BOOTSTRAP, para facilitar un poco el desarrollo frontend
 
 # Vista principal de la aplicación:
 
-![image-20200808223102036](Img/Diseño de la app.png)
+![Principal](Diseño de la app.png)
 
 
 
